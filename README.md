@@ -36,7 +36,7 @@ https://multi.ptzhost.net/
 - Install laravel and extensions (see #1)
 - Upload these files to the root folder of laravel
 - Make ftom the root folder of laravel
- php artisan migrate
+ "php artisan migrate"
 - Register a new user
 - Set is_general_admin to 1 in the table "users" for this user
 
