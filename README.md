@@ -1,5 +1,5 @@
 # multistore
-Multistore cart project
+Multistore cart project v.1.0
 
 1.Dependencies:
 - Laravel Framework 6.6
