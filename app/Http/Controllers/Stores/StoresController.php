@@ -86,7 +86,8 @@ class StoresController extends BaseController
             $key = $request->input('orderby');
             if (! $request->input('category_id')) {
                 $id = $request->input('store_id');
-                return view('store.index', $this->createStorePage($id, $key));
+                $storeInfo = $this->StoresRepository->getStoreInfoById($id);
+                return view('store.index', $this->createStorePage($storeInfo, $key));
             } else {
                 $storeId = $request->input('store_id');
                 $id = $request->input('category_id');
