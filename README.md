@@ -24,7 +24,7 @@ Multistore cart project
 - Adding to cart with checking of quantity of the product
 - The checkout is available for guest
 - The authorized custome can manage the profile, orders and addresses on the user dashboard
--The general admin can to manage the stores, customes and orders in admin panel
+- The general admin can to manage the stores, customes and orders in admin panel
 - The store admin can to manage the own store, orders, categories, products, attributes of the products, reviews.
 - The Form "add a buisness" to send a request 
 etc
