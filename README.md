@@ -26,6 +26,8 @@ Multistore cart project
 - The authorized custome can manage the profile, orders and addresses on the user dashboard
 - The general admin can to manage the stores, customes and orders in admin panel
 - The store admin can to manage the own store, orders, categories, products, attributes of the products, reviews.
+- Sending to the customer a confirmation email to the order
+- Sending to the customen an email to the new order comment 
 - The Form "add a buisness" to send a request 
 etc
 
